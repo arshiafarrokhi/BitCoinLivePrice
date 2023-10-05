@@ -22,7 +22,7 @@
 
 ## About The Project
 
-![Screen Shot](assets\img\preview.png)
+<img src="assets\img\preview.png" alt="about">
 
 Hints :
 
