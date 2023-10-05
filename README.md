@@ -20,14 +20,6 @@
 
 ![Downloads](https://img.shields.io/github/downloads/arshiafarrokhi/BitCoinLivePrice/total) ![Contributors](https://img.shields.io/github/contributors/arshiafarrokhi/BitCoinLivePrice?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/arshiafarrokhi/BitCoinLivePrice?style=social) ![Issues](https://img.shields.io/github/issues/arshiafarrokhi/BitCoinLivePrice) 
 
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
-* [Usage](#usage)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
-
 ## About The Project
 
 ![Screen Shot](assets\img\preview.png)
