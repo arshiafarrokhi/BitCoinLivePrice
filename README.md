@@ -10,7 +10,7 @@
     You can get more information from my personal website
     <br/>
     <br/>
-    <a href="https://github.com/arshiafarrokhi/BitCoinLivePrice">View Demo</a>
+    <a href="https://arshiafarrokhi.github.io/BitCoinLivePrice/">View Demo</a>
     .
     <a href="https://github.com/arshiafarrokhi/BitCoinLivePrice/issues">Report Bug</a>
     .
