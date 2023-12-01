@@ -11,6 +11,7 @@ function getQuote() {
             _data = JSON.parse(xhr.response).bpi.USD.rate;
             console.log(_data);
             _btc.innerHTML = _data.slice(0, -2);
+            swal("Update success!" , "Bitcoin price is updated once every minute", "success");
         }
     }
     xhr.open("GET", "https://api.coindesk.com/v1/bpi/currentprice.json");
